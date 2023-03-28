@@ -13,7 +13,7 @@
       <img src="/assets/demo/img/logo-files/fav-icon.png">
       <h1>
         <a @click="gotTo('dashboard')" class="mb-3">Parking Dashboard</a>
-        <p class="mb-0 text-black font-weight-light text-capitalize"> County Collect</p>
+        <p class="mb-0 text-black font-weight-light text-capitalize"> Safaricom Kenya</p>
       </h1>
     </div>
 
